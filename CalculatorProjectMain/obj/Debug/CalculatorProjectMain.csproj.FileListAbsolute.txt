@@ -1,0 +1,10 @@
+C:\Users\L540\source\repos\CalculatorProjectMain\bin\Debug\CalculatorProjectMain.exe.config
+C:\Users\L540\source\repos\CalculatorProjectMain\bin\Debug\CalculatorProjectMain.exe
+C:\Users\L540\source\repos\CalculatorProjectMain\bin\Debug\CalculatorProjectMain.pdb
+C:\Users\L540\source\repos\CalculatorProjectMain\obj\Debug\CalculatorProjectMain.csprojAssemblyReference.cache
+C:\Users\L540\source\repos\CalculatorProjectMain\obj\Debug\CalculatorProjectMain.Properties.Resources.resources
+C:\Users\L540\source\repos\CalculatorProjectMain\obj\Debug\CalculatorProjectMain.csproj.GenerateResource.cache
+C:\Users\L540\source\repos\CalculatorProjectMain\obj\Debug\CalculatorProjectMain.csproj.CoreCompileInputs.cache
+C:\Users\L540\source\repos\CalculatorProjectMain\obj\Debug\CalculatorProjectMain.exe
+C:\Users\L540\source\repos\CalculatorProjectMain\obj\Debug\CalculatorProjectMain.pdb
+C:\Users\L540\source\repos\CalculatorProjectMain\obj\Debug\CalculatorProjectMain.StandardCalculator.resources
